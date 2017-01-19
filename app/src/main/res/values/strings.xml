@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Signal Quality</string>
+    <string name="university">Πανεπιστήμιο Θεσσαλίας</string>
+    <string name="thesis">Διπλωματική Εργασία</string>
+    <string name="title">Εφαρμογή καταγραφής ποιότητας σήματος σε δίκτυα κινητών επικοινωνιών</string>
+    <string name="menuButton">Επιλογες</string>
+    <string name="name">Μιχαήλ Κωνσταντίνα</string>
+    <string name="am">Α.Μ. 32</string>
+    <string name="title_activity_menu">Επιλογές</string>
+    <string name="map">Πλοηγηση σε Χαρτη</string>
+    <string name="informationMobile">Πληροφοριες Κινητου</string>
+    <string name="signalstrength">Ισχυς Σηματος</string>
+    <string name="title_activity_maps">Πλοήγηση σε Χάρτη</string>
+    <string name="title_activity_information_mobile">Πληροφορίες Κινητού</string>
+    <string name="title_activity_signal_stength">Ισχύς Σήματος</string>
+</resources>
